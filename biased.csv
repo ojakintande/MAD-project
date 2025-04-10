@@ -1,0 +1,17 @@
+,Before mitigation,,After mitigation,
+,Training with Biased Label & Testing with Biased Label,,,
+,Accuracy (ROC AUC),,,
+,0.7465 (0.8279),,0.7279 (0.7156),
+Race ,Precision,Selection rate,Precision,Selection rate
+African American,0.7156,0.5866,0.7826,0.4145
+Caucasian,0.7576,0.2059,0.6531,0.3077
+Hispanics,0.6471,0.135,0.5143,0.2454
+Others,0.7273,0.1278,0.6579,0.2932
+,Training with Biased Label & Testing with Less Biased Label,,,
+,Accuracy (ROC AUC),,,
+,0.6826 (0.7155),,0.6794 (0.5738),
+Race ,Precision,Selection rate,Precision,Selection rate
+African American,0.5453,0.5866,0.6312,0.1296
+Caucasian,0.5,0.2059,0.7192,0.1294
+Hispanics,0.8235,0.135,0.7669,0.0675
+Others,0.5,0.1278,0.7607,0.1579
