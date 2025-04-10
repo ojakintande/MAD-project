@@ -1,4 +1,3 @@
-- Medicine After Death. In this paper, we therefore liken the application of Trustworthy AI methods in the presence of label bias, to the process of trying to rescue a dead person by administering them a drug: The medicine is not only late but could be unethical.
 - We explore the popular COMPAS dataset to establish our hypothesis
 - The 2 year rescidivism was used as a less bias label
 - Decile score as the biased label
