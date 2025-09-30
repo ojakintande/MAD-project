@@ -5,3 +5,5 @@
 - Decile score as the biased label
 - XAI - incorrect conclusion or interpretation
 - More and detailed information on the paper
+
+Link to the paper - https://proceedings.mlr.press/v294/akintande25a
